@@ -11,12 +11,12 @@ headers = {
   'User-Agent':
       USER_AGENT,
   'Cookie':
-      '_ga=GA1.2.1506161081.1587364019; have_account=1; cookieconsent_dismissed=yes; btc_address=1CZ8AgZy1a8duZt4VRyXMqzzu5ZzfvHKQn; password=eda74144c1a1d46c78e2fcbc5075f3bf5085039f8b943b0e21a0c3cd166aa34a; login_auth=a3c0b9b56029ed43ce4d3c19d39d8849186334008655d9ee5da394428fbb174b; __cfduid=d9762eb8e808d2dc89b9b7a35f971a2c01592649691; last_play=1593077988; csrf_token=n8V5wsQnaqy6; _gid=GA1.2.2052395072.1594307843; hide_push_msg=1; _gat=1'
+      '<your-account-cookies-here>'
 }
 proxies = {}
-client = pymongo.MongoClient("mongodb+srv://Rohit:Rohit.2001@cluster0-1g6nx.azure.mongodb.net/test?retryWrites=true&w=majority")
+client = pymongo.MongoClient("<user a database if you'd like to maintain logs. I'm using MongoDB>")
 db = client.BTC
-csrf_token = 'n8V5wsQnaqy6'
+csrf_token = '<your-account-csrftoken-here>'
 status = True
 rv2 = False
 rolltime = "0"
