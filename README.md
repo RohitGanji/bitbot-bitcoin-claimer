@@ -1,6 +1,6 @@
 # Freebitco.in AutoRoll Bot
 
-This scripts generates me 0.001 BTC every 85 days.
+This scripts generates me 0.00115+ BTC every 85 days.
 
 Features:
 1. Auto Roll
