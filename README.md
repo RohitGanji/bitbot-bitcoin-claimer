@@ -1,6 +1,6 @@
 # Freebitco.in AutoRoll Bot
 
-![](output.jpg | width=80%)
+![](output.jpg | width=500)
 
 <center><img src="output.jpg" width="80%"/></center>
 
