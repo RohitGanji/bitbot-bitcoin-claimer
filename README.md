@@ -1,6 +1,6 @@
 # Freebitco.in AutoRoll Bot
 
-[](output.jpg)
+![](output.jpg)
 
 This scripts generates me 0.00115+ BTC every 85 days.
 
