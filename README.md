@@ -4,7 +4,7 @@
 
 This scripts generates me 0.00115+ BTC every 85 days.
 
-Features:
+<b>Features:</b>
 1. Auto Roll
 2. Auto Redeem points (Reward Point Bonus and Free BTC Bonus
 
