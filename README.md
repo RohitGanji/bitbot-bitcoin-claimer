@@ -2,8 +2,6 @@
 
 ![](output.jpg)
 
-<img src="output.jpg" width="80%"/>
-
 This bot communicates with freebitco.in website through GET and POST requests, and claims the free BTC offered by the website every hour. It uses my account cookies to avoid logging in. It generates me 0.00115+ BTC for every 85 days.
 
 <b>Features:</b>
