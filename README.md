@@ -12,4 +12,4 @@ Make sure your account doesn’t have to solve captcha for every roll. If it doe
 
 Insert your account’s cookies in line 14. Setup a database (I used MongoDB) to get updates on your bot. I’m running this bot on an Ubuntu Server. 
 
-Do not run it on a pc. Use a 256MB/512MB ram server for best investment/profit ratio. I'm using the free Azure Server credits that I redeemed by using my education email.
+Use a 256MB/512MB ram server for best investment/profit ratio. I'm using the free Azure Server credits that I redeemed by using my education email.
